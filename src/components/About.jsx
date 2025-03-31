@@ -80,7 +80,7 @@ function About() {
         <Card
           sx={{
             position: "relative",
-            backgroundColor: "rgba(0, 0, 0, 0.5)",
+            backgroundColor: "rgba(0, 0, 0, 0.3)",
             p: 3,
             boxShadow: 2,
             maxWidth: "100%",

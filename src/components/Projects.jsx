@@ -12,7 +12,7 @@ import { motion } from "framer-motion";
 
 const projects = [
   {
-    title: "Project Clo-Plo for AUN-QA",
+    title: "Project CLO-PLO for AUN-QA",
     description:
       "A System for Relevent Pharse Checking of Course Learning Outcome (CLO) to Program Learning Outcome (PLO) for AUN-QA Assessment",
     image:

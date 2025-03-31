@@ -2,6 +2,7 @@ import React from "react";
 import Header from "./components/Header";
 import HeroSection from "./components/HeroSection";
 import About from "./components/About";
+import Projects from "./components/Projects";
 
 function App() {
   return (
@@ -14,6 +15,9 @@ function App() {
 
       <section id='about'>
         <About />
+      </section>
+      <section id='projects'>
+        <Projects />
       </section>
     </>
   );

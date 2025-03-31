@@ -54,7 +54,7 @@ function About() {
       >
         <motion.div
           animate={{
-            x: [0, 4, 0, -5, 0],
+            x: [0, 3, 0, -3, 0],
             y: [0, 4, 0, -2, 0],
           }}
           transition={{
@@ -65,14 +65,13 @@ function About() {
           }}
         >
           <Typography
-            variant='h3'
+            variant='h4'
             color='White'
             gutterBottom
             sx={{
-              fontWeight: "bold",
               letterSpacing: 2,
               textShadow: "4px 4px 4px rgba(0,0,0,0.99)",
-              fontFamily: "cursive",
+              fontFamily: "'Great Vibes', cursive",
             }}
           >
             ABOUT ME 🔓
@@ -112,8 +111,15 @@ function About() {
             <Typography variant='h6' color='White' gutterBottom>
               Hello! I'm Earth ☀️🌍
             </Typography>
-            <Typography variant='body1' color='#FFF5EB'>
+            <Typography variant='body1' color='#FFF5EB' gutterBottom>
               Looking For Work. 👨🏻‍💻
+            </Typography>
+            <Typography variant='body1' color='#FFF5EB' gutterBottom>
+              I’ m a passionate IT Graduate with expertise in Web Application
+              Development and Natural Language Processing (NLP). With strong
+              Analytical Skills and Leadership Experience as the Vice President
+              of the Student Union, I am eager to apply my Technical Knowledge
+              and Teamwork Abilities in a Dynamic Organization.
             </Typography>
 
             <motion.div

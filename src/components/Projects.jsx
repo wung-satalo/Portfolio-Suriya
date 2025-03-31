@@ -53,7 +53,7 @@ function Projects() {
           variant='h4'
           gutterBottom
           sx={{
-            fontFamily: "'Great Vibes', cursive",
+            fontFamily: "cursive",
             textShadow: "4px 4px 4px rgba(0,0,0,0.99)",
           }}
         >

@@ -71,7 +71,7 @@ function About() {
             sx={{
               letterSpacing: 2,
               textShadow: "4px 4px 4px rgba(0,0,0,0.99)",
-              fontFamily: "'Great Vibes', cursive",
+              fontFamily: "cursive",
             }}
           >
             ABOUT ME 🔓
